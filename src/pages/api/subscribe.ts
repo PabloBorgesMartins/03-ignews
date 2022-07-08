@@ -53,7 +53,7 @@ export default async (request: NextApiRequest, response: NextApiResponse) => {
             payment_method_types: ['card'],
             billing_address_collection: 'required',
             line_items: [
-                { price: 'price_1LC8JsFQfMfmdkskxr3q619o', quantity: 1 }
+                { price: 'price_1LJA5xFQfMfmdksk0o3UkOsH', quantity: 1 }
             ],
             mode: "subscription",
             allow_promotion_codes: true,
