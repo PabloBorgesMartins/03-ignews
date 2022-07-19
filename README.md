@@ -7,9 +7,9 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/maurodesouza/profile-readme-generator
+$ git clone https://github.com/PabloBorgesMartins/03-ignews
 # Access
-$ cd profile-readme-generator
+$ cd 03-ignews
 # Install dependencies
 $ yarn
 # Run the project
@@ -22,18 +22,20 @@ $ yarn dev
 - `dev`: starts the application at `localhost:3000`
 - `build`: creates an optimized production build of application
 - `start`: starts the application in production mode at `localhost:3000` (have run the build before)
-- `test`: run the tests
 - `lint`: run eslint in /src
 
-## :memo: License ##
+## :memo: About ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This present project was developed using Rocketseat's Ignite course.
+
+## :rocket: Main Technologies ##
+
+<a href="https://nextjs.org">
+  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
+</a> &#xa0; &#xa0;
+
+<a href="https://www.typescriptlang.org">
+  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
+</a> &#xa0; &#xa0;
 
 
-Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a>
-
-&#xa0;
-
-<a href="#top">Back to top</a>
-
-*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)*
